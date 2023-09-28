@@ -1,1 +1,1 @@
-# Web flask extension of AirBnB clone project
+This directory implements webpage design.
